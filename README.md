@@ -43,3 +43,7 @@ python3 record_track.py https://fosdem.org/2026/schedule/track/foss-on-mobile/ h
 ## Output
 
 The script creates a folder matching the `--name` argument (e.g., `AI_Plumbers/`) and saves files named with the format: `HHMM_Talk_Title.mp4`.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
